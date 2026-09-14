@@ -4,8 +4,6 @@ An interactive Tableau dashboard that helps prioritize home renovation projects 
 
 **[View the live dashboard on Tableau Public →](https://public.tableau.com/app/profile/kraitz/viz/home_renovation_decision_support_tool/Dashboard1ExecutiveOverview)**
 
-![Dashboard screenshot](./images/Dashboard Static Image.png)
-
 ## The problem
 
 We have more renovation ideas than budget or time to execute them. Some projects add resale value, some just make daily life better, and some can be partly DIY'd to free up cash for other work. Before committing a year of budget to a project list, I wanted a single view that could answer:
