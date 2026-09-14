@@ -14,8 +14,6 @@ We have more renovation ideas than budget or time to execute them. Some projects
 - Within the highest-cost area, which specific projects are responsible?
 - Is a given project worth doing based on cost vs. the value it adds — and how much daily use / ROI does it deliver relative to that cost?
 
-, a budget lens for accountability, and progressive drill-down so you can go from "what's costing us money" to "which exact project is that" in two clicks.
-
 ## How it works
 
 **1. KPI summary tiles (top of dashboard)**
